@@ -1,5 +1,5 @@
 import "./globals.css";
-import "../../styles/style.scss";
+// import "../../styles/style.scss";
 import { Inter } from "next/font/google";
 import { Layout } from "../../Components/page";
 
