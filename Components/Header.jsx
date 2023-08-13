@@ -20,7 +20,8 @@ const Header = () => {
       <div className="border-b w-full flex my-auto items-center justify-between border-blue-400 py-2">
         <div className="md:float-left block">
           <Link href="/">
-            <Image src="/logo.png" alt={'SK Blog'} height="0" width="0" style={{ width : "20vw" , height:"auto", color: "white"}} 
+            <Image src="/logo.png" alt={'SK Blog'} height="0" width="0" 
+            className='w-80 sm:w-80 '
             
             unoptimized
             />
